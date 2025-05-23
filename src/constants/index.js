@@ -190,14 +190,7 @@ const projects = [
         name: "MongoDB",
         color: "",
       },
-      {
-        name: "JWT",
-        color: "",
-      },
-      {
-        name: "Bcrypt",
-        color: "",
-      },
+      
       {
         name: "AI integration",
         color: "",
