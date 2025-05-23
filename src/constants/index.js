@@ -105,6 +105,20 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Full Stack Developer",
+    icon: webdev1,
+    iconBg: "#383E56",
+    date: "May 2025 - Present",
+    points: [
+      "Developing and maintaining web applications using HTML, CSS, Font Awesome (UI Clarity), Express.js, Node.js,  EJS, Bcrypt, express - session and Javascript.",
+      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Developed an interactive Real estate website allowing users to search for properties, view details, and contact agents.",
+      "Implemented user authentication and authorization using JWT and bcrypt.",
+      "Integrated third-party APIs for property listings and maps.",
+      "AI integration for personalized property recommendations.",
+    ],
+  },
+  {
     title: "Web Developer",
     icon: webdev1,
     iconBg: "#383E56",
@@ -147,6 +161,55 @@ const testimonials = [
 ];
 
 const projects = [
+  {
+    name: "Fully Responsive Real Estate website",
+    description:
+      "Just in early I completed developing a fully responsive real estate website where users can search for properties, view details, and contact agents. The website is built using React.js, Node.js, and MongoDB. I also implemented user authentication and authorization using JWT and bcrypt. Additionally, I integrated third-party APIs for property listings and maps. The website also has AI integration for personalized property recommendations.",
+    tags: [
+      {
+        name: "javascript",
+        color: "",
+      },
+      {
+        name: "CSS",
+        color: "purple-text-gradient",
+      },
+      {
+        name: "HTML",
+        color: "purple-text-gradient",
+      },
+      {
+        name: "Express.js",
+        color: "",
+      },
+      {
+        name: "Node.js",
+        color: "",
+      },
+      {
+        name: "MongoDB",
+        color: "",
+      },
+      {
+        name: "JWT",
+        color: "",
+      },
+      {
+        name: "Bcrypt",
+        color: "",
+      },
+      {
+        name: "AI integration",
+        color: "",
+      },
+      {
+        name: "Third-party APIs",
+        color: "",
+      },
+    ],
+    image: "src/assets/Figure 3.png",
+    source_code_link: "#",
+  },
   {
     name: "Fully Responsive Movie recommendation website",
     description:
