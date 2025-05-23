@@ -124,7 +124,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "Aug 2023 - Present",
     points: [
-      "Developing and maintaining web applications using React.js, Node.js,  Vue.js, and Javascript.",
+      "Developing and maintaining web applications using React.js, Node.js,  Vue.js, Express, and Javascript.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Developed an interactive product configurator using Three.js to allow users to customize and visualize products in real-time.",
     ],
@@ -190,7 +190,6 @@ const projects = [
         name: "MongoDB",
         color: "",
       },
-      
       {
         name: "AI integration",
         color: "",
