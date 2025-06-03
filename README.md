@@ -13,7 +13,9 @@ Ensure responsiveness across all devices and improve your site's performance usi
 HOW TO RUN:
 
 OPEN THE TERMINAL:
-npm install
+
+npm install,
+
 npm run dev
 
 (ignore the errors)
